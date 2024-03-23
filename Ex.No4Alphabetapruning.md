@@ -63,7 +63,7 @@ print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 
 
 ### Result:
-
+Thus the best score of max player was found using Alpha Beta Pruning.
 
 
 
