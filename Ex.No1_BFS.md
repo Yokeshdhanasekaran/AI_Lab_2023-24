@@ -42,11 +42,12 @@ print("Following is the Breadth-First Search")
 bfs(visited, graph, '5')    # function calling
 
 
+
+
 ```
 ### Output:
 
-"C:\Users\SEC\Pictures\Screenshots\Screenshot 2024-03-23 114007.png"
-
+![Screenshot 2024-03-23 114007](https://github.com/Yokeshdhanasekaran/AI_Lab_2023-24/assets/119475907/8139d8b8-0006-4e8f-823b-c5aa61486570)
 
 
 ### Result:
